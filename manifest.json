@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Excel Uploader",
+  "version": "1.0",
+  "description": "Upload an Excel file and process data.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
